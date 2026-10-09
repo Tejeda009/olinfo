@@ -15,7 +15,7 @@ int main() {
 
     vector<int> num(N);
 
-    int max = -1, ris = 1;
+    int max = -1, ris = 1, last = 0;
     int index = 0;
 
     for (int i = 0; i < N; i++) {
@@ -26,8 +26,11 @@ int main() {
         }
     }
 
+    last = max;
+
     for (int i = index + 1; i < N; i++) {
-        if (num[i] <= max) {
+        if (num[i] <= last) {
+            last = num[i];
             ris++;
         }
     }
