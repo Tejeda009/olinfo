@@ -1,0 +1,2 @@
+Gauss (calcola la somma progressiva di N numeri)
+somma = (N x N) / 2
