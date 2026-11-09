@@ -20,7 +20,7 @@ int main() {
     if (disks == 1) {
         cout << "1\n1 3\n";
         return 0;
-    } else if (disks == 2) {
+    } else if (disks == 2) { 
         cout << "3\n1 2\n1 3\n2 3\n";
         return 0;
     }
