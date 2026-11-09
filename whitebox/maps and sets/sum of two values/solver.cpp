@@ -9,7 +9,7 @@ int main() {
     long long sum;
     cin >> size >> sum;
 
-    unordered_map<long long, int> seen;
+    map<long long, int> seen;
 
     for (int i = 0; i < size; i++) {
         long long val;
