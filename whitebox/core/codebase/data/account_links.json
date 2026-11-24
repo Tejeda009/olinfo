@@ -1,0 +1,11 @@
+{"primary_account_id":"u001","related_account_id":"u002","link_type":"SHARED_SHIPPING_ADDRESS"}
+{"primary_account_id":"u002","related_account_id":"u003","link_type":"SHARED_PAYMENT_METHOD"}
+{"primary_account_id":"u003","related_account_id":"u004","link_type":"SHARED_DEVICE_FINGERPRINT"}
+{"primary_account_id":"u004","related_account_id":"u005","link_type":"SHARED_SHIPPING_ADDRESS"}
+{"primary_account_id":"u006","related_account_id":"u007","link_type":"SHARED_SHIPPING_ADDRESS"}
+{"primary_account_id":"u006","related_account_id":"u008","link_type":"SHARED_PAYMENT_METHOD"}
+{"primary_account_id":"u006","related_account_id":"u009","link_type":"SHARED_DEVICE_FINGERPRINT"}
+{"primary_account_id":"u006","related_account_id":"u010","link_type":"SHARED_SHIPPING_ADDRESS"}
+{"primary_account_id":"u011","related_account_id":"u012","link_type":"SHARED_SHIPPING_ADDRESS"}
+{"primary_account_id":"u012","related_account_id":"u013","link_type":"SHARED_PAYMENT_METHOD"}
+{"primary_account_id":"u011","related_account_id":"u013","link_type":"SHARED_DEVICE_FINGERPRINT"}
